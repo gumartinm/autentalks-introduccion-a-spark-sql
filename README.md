@@ -25,6 +25,9 @@ Command to be run if you want to build this project from the CLI.
 sbt clean compile scalastyle coverage test test:scalastyle coverageReport
 ```
 
+## How to run the application from IntelliJ
+![how to run the application from IntelliJ](images/run_the_tests.gif)
+
 ## Assembly, generate jar file
 
 Command to be run if you want to package this project from the CLI.
