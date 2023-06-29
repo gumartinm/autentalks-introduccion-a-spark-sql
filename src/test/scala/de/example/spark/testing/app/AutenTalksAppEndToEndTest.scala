@@ -25,7 +25,7 @@ class AutenTalksAppEndToEndTest extends SharedSparkSessionHelper {
     val args = Array.empty[String]
     AutenTalksApp.main(args)
 
-    Thread.sleep(100000)
+    Thread.sleep(1000000)
   }
 
 }
